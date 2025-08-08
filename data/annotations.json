@@ -56,7 +56,7 @@
               "height": 1.0629012991791456,
               "rotation": 357.93618027154275,
               "rectanglelabels": [
-                "Visit_Date"
+                "Insurance_ID"
               ]
             },
             "origin": "manual",
@@ -70,8 +70,8 @@
             "id": "WgS2zKOGD0",
             "type": "rectanglelabels",
             "value": {
-              "x": 23.835332617573492,
-              "y": 15.141864207296758,
+              "x": 23.835332617573496,
+              "y": 15.141864207296754,
               "width": 11.061273232251773,
               "height": 1.451120251695282,
               "rotation": 358.96775530843604,
